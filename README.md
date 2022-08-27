@@ -27,8 +27,8 @@ Epoch: 3/5..  Training Loss: 0.702..  Validation Loss: 0.442..  Validation Accur
 Epoch: 4/5..  Training Loss: 0.590..  Validation Loss: 0.327..  Validation Accuracy: 0.893
 Epoch: 5/5..  Training Loss: 0.547..  Validation Loss: 0.331..  Validation Accuracy: 0.917
 ```
-
-Image here
+Training and Validation loss from this run
+<img width="378" alt="train_valid_lossPlot" src="https://user-images.githubusercontent.com/22277499/187011858-33637d60-7125-45a9-9422-c46c29541956.png">
 
 
 
