@@ -1,9 +1,9 @@
 # AI Programming with Python Project
 
 
-# PROGRAMMER: Jose Tapia
-# DATE CREATED: 08/17/2022
-# REVISED DATE: 08/26/2022
+PROGRAMMER: Jose Tapia
+DATE CREATED: 08/17/2022
+REVISED DATE: 08/26/2022
 
 Project code for Udacity's AI Programming with Python Nanodegree program. 
 
