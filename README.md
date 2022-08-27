@@ -9,12 +9,13 @@ Project code for Udacity's AI Programming with Python Nanodegree program.
 
 
 NOTE:
+
 -Environment yml file included
--saved model checkpoints are not available due to the size restriction of github
+```
 Includes two image classifiers of the same purpose but different file formats:
 1. ipynb file created on Jupyter Notebook
 2. Command Line Interface using three files ['predict.py,'train.py','utility.py'] that classifies this dataset:
-
+```
 102 Category Flower Dataset
 by Maria-Elena Nilsback and Andrew Zisserman
 https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
