@@ -1,12 +1,20 @@
 # Udacity - AI Programming with Python Course Project
 
-<p> In the Summer of 2022 I applied for the [AWS AI/ML Scholarship Program](http://awsaimlscholarship.com/) with the goal of improving my fundamental knowledge of AI/ML in practice. This was a great opportunity to prepare myself for my Fall semester of 2022, in which I took two academic courses - Machine Learning(CPSC 483) and Artificial Intelligence(CPSC 491). I'm grateful for the opportunities that happened shortly after this course and it will forever be a reminder that chasing opportunities to improve yourself can open many doors. </p> 
 
+# Why I took this course
+In the Summer of 2022 I applied for the [AWS AI/ML Scholarship Program](http://awsaimlscholarship.com/) with the goal of improving my fundamental knowledge of AI/ML in practice. This was a great opportunity to prepare myself for my Fall semester of 2022, in which I took two academic courses - Machine Learning(CPSC 483) and Artificial Intelligence(CPSC 491). I'm grateful for the opportunities that happened shortly after this course and it will forever be a reminder that chasing opportunities to improve yourself can open many doors.
+
+
+## The application process
 The application process included chapter modules that covered the common ML pipeline of defining a problem, building a dataset, model training, model evaluation, and model inference. 
 
 
-
+## Eligibility for the scholarship
 After studying these modules, you compete in the AWS DeepRacer Student League. Eligibility for the scholarship was dependent on competing in the DeepRacer Student League and finishing a time trial lap in less than 3 minutes on any single leaderboard.</p>
+
+As you can see with this given model provided by AWS with no parameters changed, I would not have made the cut! But, there is room to improve with the 10 hours of free training that AWS provides you with. 
+
+
 
 
 ##
